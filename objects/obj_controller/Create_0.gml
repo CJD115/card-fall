@@ -1,0 +1,1 @@
+alarm[0] = 30; // Set an initial alarm to spawn sprites
