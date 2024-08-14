@@ -17,8 +17,7 @@ if (place_meeting(x, y, obj_yellow_square)) {
             instance_destroy();
         } else {
             // If the card is not the next in the order, close the game
-            show_message("Incorrect card collected. The game will now close.");
-            game_end();
+            room_goto(rm_start_screen)
         }
     }
 }

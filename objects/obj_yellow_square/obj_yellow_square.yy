@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_spade_1",
-    "path":"sprites/spr_spade_1/spr_spade_1.yy",
+    "name":"spr_blank",
+    "path":"sprites/spr_blank/spr_blank.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Spades",
-    "path":"folders/Sprites/SpriteCards/Spades.yy",
+    "path":"folders/Sprites/SpriteCards/OriginalCards/Spades.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
